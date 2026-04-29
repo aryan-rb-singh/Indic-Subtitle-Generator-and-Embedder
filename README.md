@@ -1,4 +1,4 @@
-#  Indic Subtitle Generator — v6
+#  Indic Subtitle Generator — v1.1
 
 > Automatically transcribe any video and generate subtitles in **all 22 scheduled Indian languages + English** — in one command.
 
