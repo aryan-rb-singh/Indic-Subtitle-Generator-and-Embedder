@@ -29,7 +29,7 @@ Bengali · Telugu · Marathi · Tamil · Urdu · Gujarati · Kannada · Odia · 
 
 ### Option A — Google Colab (Recommended, Free GPU)
 
-Click the **Open in Colab** badge above. Run cells 1–6 in order. No local setup needed.
+Download and Upload the .ipynb file on Google Collab, Then Run cells 1–6 in order. No local setup needed.
 
 ### Option B — Local Python
 
