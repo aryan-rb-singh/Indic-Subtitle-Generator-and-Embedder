@@ -69,8 +69,8 @@ Open the output `.mkv` → Subtitles → Sub Track → pick any language.
 
 ```
 indic-subtitle-generator/
-├── indic_subtitle_generator.py     # Standalone Python script (CLI)
-├── indic_subtitle_TRYOUT_COLAB.ipynb   # Google Colab notebook 
+├── main.py     # Standalone Python script (CLI)
+├── indic_subtitle_v1.1_TRYOUT.ipynb   # Google Colab notebook 
 ├── requirements.txt
 ├── LICENSE
 └── README.md
